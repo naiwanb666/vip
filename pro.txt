@@ -1,3 +1,6 @@
+@@*:17500$network,$important
+@@*:80$network,$important
+@@*:443$network,$important
 *:117.135.156.120$network
 *:183.247.240.51$network
 *:183.247.240.25$network
